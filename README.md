@@ -30,4 +30,14 @@ Główny skrypt wykorzystuje język Python do gromadzenia, analizowania i wizual
 - **Widok administratora**: Administratorzy mają dodatkowe uprawnienia lub widoki, co jest sygnalizowane przez obecność specjalnych znaczników lub wiadomości w interfejsie.
 - **Widok użytkownika**: Zwykli użytkownicy mają dostęp do swoich zarejestrowanych danych i mogą zobaczyć spersonalizowane statystyki.
 ![image](https://github.com/AndriiMaksym/Project_Cisco/assets/152690059/dd395353-862f-4f0c-81ad-65bac60c77a5)
+![image](https://github.com/AndriiMaksym/Project_Cisco/assets/152690059/408cdf19-7fba-400a-b85d-172fe826e10c)
+![image](https://github.com/AndriiMaksym/Project_Cisco/assets/152690059/69a3990e-1f27-495f-9a28-67affc02a9a4)
+![image](https://github.com/AndriiMaksym/Project_Cisco/assets/152690059/ab6c0bcd-3c06-4511-933c-64c39b7f6a39)
+![image](https://github.com/AndriiMaksym/Project_Cisco/assets/152690059/d4dc40bd-73ea-4834-9d40-d27363c71557)
+![image](https://github.com/AndriiMaksym/Project_Cisco/assets/152690059/10bab782-59d7-40b3-9b2c-313fcc269f47)
+![image](https://github.com/AndriiMaksym/Project_Cisco/assets/152690059/36064c30-c218-4ebf-a8c9-c7b715c7dd7f)
+
+
+
+
 
