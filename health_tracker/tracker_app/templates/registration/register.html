@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+{% block title %}Registration{% endblock %}
+
+{% block content %}
+<div class="container-md mt-3 mb-3 d-flex justify-content-center">
+    <div class="card p-4 shadow" style="max-width: 500px; width: 100%;">
+        <h2 class="display-4 text-center">Register</h2>
+
+
+        <form method="post" class="needs-validation" novalidate>
+            {% csrf_token %}
+            <div class="mb-3">
+                {{ form.username.label_tag }}
+                {{ form.username }}
+                {% if form.username.errors %}
+                    <div class="invalid-feedback d-block">
+                        {% for error in form.username.errors %}
+                            <p>{{ error }}</p>
+                        {% endfor %}
+                    </div>
+                {% endif %}
+            </div>
+
+            <div class="mb-3">
+                {{ form.password1.label_tag }}
+                {{ form.password1 }}
+                {% if form.password1.errors %}
+                    <div class="invalid-feedback d-block">
+                        {% for error in form.password1.errors %}
+                            <p>{{ error }}</p>
+                        {% endfor %}
+                    </div>
+                {% endif %}
+            </div>
+
+            <div class="mb-3">
+                {{ form.password2.label_tag }}
+                {{ form.password2 }}
+                {% if form.password2.errors %}
+                    <div class="invalid-feedback d-block">
+                        {% for error in form.password2.errors %}
+                            <p>{{ error }}</p>
+                        {% endfor %}
+                    </div>
+                {% endif %}
+            </div>
+
+            <button class="btn btn-primary mb-3 w-100" type="submit">Register</button>
+        </form>
+        <a href="{% url 'login' %}" class="btn btn-link text-center w-100">Already have an account? Login here</a>
+    </div>
+</div>
+{% endblock %}
+
+
