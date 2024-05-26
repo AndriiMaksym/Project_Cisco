@@ -29,3 +29,5 @@ Główny skrypt wykorzystuje język Python do gromadzenia, analizowania i wizual
 ### Rozróżnienie administratora i użytkownika
 - **Widok administratora**: Administratorzy mają dodatkowe uprawnienia lub widoki, co jest sygnalizowane przez obecność specjalnych znaczników lub wiadomości w interfejsie.
 - **Widok użytkownika**: Zwykli użytkownicy mają dostęp do swoich zarejestrowanych danych i mogą zobaczyć spersonalizowane statystyki.
+![image](https://github.com/AndriiMaksym/Project_Cisco/assets/152690059/dd395353-862f-4f0c-81ad-65bac60c77a5)
+
