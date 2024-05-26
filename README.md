@@ -36,6 +36,7 @@ Główny skrypt wykorzystuje język Python do gromadzenia, analizowania i wizual
 ![image](https://github.com/AndriiMaksym/Project_Cisco/assets/152690059/d4dc40bd-73ea-4834-9d40-d27363c71557)
 ![image](https://github.com/AndriiMaksym/Project_Cisco/assets/152690059/10bab782-59d7-40b3-9b2c-313fcc269f47)
 ![image](https://github.com/AndriiMaksym/Project_Cisco/assets/152690059/36064c30-c218-4ebf-a8c9-c7b715c7dd7f)
+![image](https://github.com/AndriiMaksym/Project_Cisco/assets/152690059/b23a3ad9-8af8-4fb2-8be8-e257914a2e76)
 
 
 
