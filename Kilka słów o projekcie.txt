@@ -1,0 +1,1 @@
+Główny skrypt wykorzystuje język Python do gromadzenia, analizowania i ewentualnie wizualizacji danych dotyczących zdrowia, pomagając użytkownikom monitorować ich wskaźniki zdrowotne na przestrzeni czasu.
